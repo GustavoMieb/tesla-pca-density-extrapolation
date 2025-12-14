@@ -40,7 +40,7 @@ tesla-pca-density-extrapolation/
 │   ├── tesla_deliveries_dataset_2015_2025.csv
 │   └── README.md
 ├── notebooks/
-│   ├── ProyyectoTesla.ipynb
+│   ├── ProyectoTesla.ipynb
 │   └── README.md
 └── docs/
     └── PropuestraFinal2proyMMCD.pdf
