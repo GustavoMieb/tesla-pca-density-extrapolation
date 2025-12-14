@@ -42,9 +42,6 @@ tesla-pca-density-extrapolation/
 ├── notebooks/
 │   ├── tesla_pca_analysis.ipynb
 │   └── README.md
-├── src/
-│   ├── pca_from_scratch.py
-│   └── numerical_methods.py
 └── docs/
     └── PropuestraFinal2proyMMCD.pdf
 
